@@ -1,5 +1,10 @@
-Para inicializar esse projeto é necessario ter [Node.Js](https://nodejs.org/en/) instalado, ir até a pasta do projeto e inicializar com 'npm start'.
+## Projeto Wikipedia Viewer
 
+Esse é um projeto feito em ReactJs.
+
+Para esse projeto é necessario ter [Node.Js](https://nodejs.org/en/) e [Create React App](https://github.com/facebook/create-react-app) instalado.
+
+Após isso basta seguir os passos abaixo, ou pelo terminal usar "npm start" dentro da pasta do projeto.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
