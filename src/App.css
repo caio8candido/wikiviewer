@@ -1,0 +1,127 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+body {
+  background: #E9EBEE; }
+
+h1, h2, h3, h5, h6 {
+  font-family: "Cabin", sans-serif;
+  text-align: justify;
+
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 0;
+  color: #303030; }
+
+h4{
+  font-family: 'Merienda', cursive;
+  margin-bottom: 10px;
+  font-size: 60px;
+  text-align: center;
+  color: white;
+}
+
+
+p, button, a, input, q {
+  font-family: "Open Sans", sans-serif; }
+
+p {
+  text-align: justify;
+  margin: 0;
+  margin-left: 20px;
+  margin-bottom:10px;
+  margin-right: 20px;
+}
+
+.bg-white {
+  background: #fff; }
+
+.bg-inverse {
+  background: #000 !important; }
+
+.
+
+
+footer {
+  background: #000;
+  padding-top: 3rem;
+  padding-bottom: 3rem; }
+
+footer p {
+  margin-bottom: .25rem; }
+
+button {
+  cursor: pointer; }
+
+
+.card-block {
+  background: #F6F7F9;
+  border: 1px solid #dddfe2;
+  border-radius: 10px;
+}
+
+
+.App .big-font {
+  font-size: 60px;
+  line-height: 0.7;
+}
+
+.App .units {
+  font-size: 20px;
+  vertical-align: top;
+}
+
+.App .small-font {
+  font-size: 10px;
+  margin-top: -5px;
+}
+
+.App .btn-group {
+  vertical-align: top;
+}
+
+.App label {
+  cursor: pointer;
+}
+
+.App input {
+  border: 1px solid #dddfe2;
+  padding: .35rem 1rem;
+}
+
+.App .btn {
+  padding: .35rem 1rem;
+}
+
+.App a{
+  text-decoration: none;
+  color: inherit;
+}
+
+.App .card-block:hover {
+  background: #f2f4f9;
+  cursor: pointer;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
