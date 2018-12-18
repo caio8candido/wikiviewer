@@ -6,9 +6,9 @@ Para esse projeto é necessario ter [Node.Js](https://nodejs.org/en/) e [Create 
 
 Após isso basta seguir os passos abaixo, ou pelo terminal usar "npm start" dentro da pasta do projeto.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
