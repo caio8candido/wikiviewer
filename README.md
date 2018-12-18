@@ -1,4 +1,4 @@
-Para inicializar esse projeto é necessario ter .[Node.Js].(https://nodejs.org/en/) instalado, ir até a pasta do projeto e inicializar com 'npm start'.
+Para inicializar esse projeto é necessario ter .[Node.Js](https://nodejs.org/en/) instalado, ir até a pasta do projeto e inicializar com 'npm start'.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
